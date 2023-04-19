@@ -4,6 +4,8 @@ This course taught the application of software engineering techniques in the inf
 
 The final product of this course was to produce a "Spa and Wellness Center system specification" through a simulated business environement. 
  
+***(Uploaded as pdf report)*** 
+ 
 Included in the business specifications are:
   * Context Diagram
   * Data Flow Diagram (Process Diagram)
